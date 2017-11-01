@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteUdemiCourse</string>
+    <string name="edit_text_hint">Enter your text here</string>
+    <string name="save">Save</string>
+    <string name="toast_cant_save">Can\'t save it is there a sufficient way?</string>
+    <string name="title_activity_image_acitiviy">image_acitiviy</string>
+</resources>
